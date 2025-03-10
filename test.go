@@ -1,5 +1,6 @@
 package sandbox
 
-func convert() {
-	println("convert")
+func Conv() {
+	println("test.go:Conv")
 }
+
